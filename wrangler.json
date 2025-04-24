@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "polished-mode-fd92",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "68e2a8f7-9ea7-4eae-bb44-401a92fb7d68",
+      "database_name": "polished-mode-fd92-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
